@@ -1,2 +1,2 @@
 # My-website
-Building my own web
+Building my own web during git tutorial
